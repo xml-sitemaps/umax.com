@@ -1,0 +1,28 @@
+URL: https://umax.com/
+# UMAX
+> One-stop shop for a range of professional 3D scanning hardware and software products, including handheld, desktop, and metrology-grade scanners, with options to purchase, compare, and access related services like reverse engineering and financing.
+> This file lists LLM-ready summaries of our pages, including short Q&A for context.
+
+URL: https://umax.com/hand-held-3d-scanners/
+## Hand Held Scanners
+- Professional Handheld 3D Scanners. Professional handheld 3D scanners with various structured-light and laser technologies for capturing detailed 3D data to support design, prototyping, inspection, and other scanning workflows.
+- **Q:** How can users compare different handheld 3D scanner options?
+- **A:** Handheld 3D scanners can be compared by price, scanning technology, and intended application to help match the scanner to specific workflow requirements.
+- **Q:** What applications are handheld 3D scanners commonly used for?
+- **A:** Handheld 3D scanners are commonly used for design, prototyping, inspection, and general 3D digitization across engineering and manufacturing workflows.
+
+URL: https://umax.com/products/einscan-h2-3d-scanner.html
+## Einscan H2 3D Scanner
+- EinScan H2 3D Scanner. The EinScan H2 handheld 3D scanner that uses a hybrid LED and invisible infrared light source with a built-in color camera, a large field of view, and enhanced accuracy to capture detailed full-color 3D data of objects and surfaces.
+- **Q:** What types of light sources does the EinScan H2 use for scanning?
+- **A:** The EinScan H2 uses a hybrid structured LED and invisible infrared light source to capture 3D geometry and full-color texture data.
+- **Q:** What kinds of objects or surfaces can the EinScan H2 effectively digitize?
+- **A:** The EinScan H2 can capture detailed 3D data and full-color textures of objects from small parts to larger surfaces such as body, face, furniture, or organic shapes.
+
+URL: https://umax.com/products/einscan-pro-2x-v2-handheld-and-desktop-3d-scanner.html
+## EinScan Pro 2X V2 3D Scanner
+- EinScan Pro 2X V2 Handheld and Desktop 3D Scanner. The EinScan Pro 2X V2 handheld and desktop 3D scanner that captures high-accuracy 3D data with multiple scan and alignment modes for fast, versatile digitization of small to medium objects in design, manufacturing, and modeling workflows.
+- **Q:** What scanning modes does the EinScan Pro 2X V2 support?
+- **A:** It supports multiple scan modes, including Handheld Rapid Scan, Handheld HD Scan, Fixed Scan with or without a turntable, and various alignment options for flexible 3D data capture.
+- **Q:** How accurate is the 3D data captured by the EinScan Pro 2X V2?
+- **A:** In Fixed Scan mode, the single-scan accuracy is up to 0.04 mm and, with markers in handheld modes, the volumetric accuracy is approximately 0.045 mm + 0.3 mm/m.
