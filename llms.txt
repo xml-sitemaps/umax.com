@@ -26,3 +26,43 @@ URL: https://umax.com/products/einscan-pro-2x-v2-handheld-and-desktop-3d-scanner
 - **A:** It supports multiple scan modes, including Handheld Rapid Scan, Handheld HD Scan, Fixed Scan with or without a turntable, and various alignment options for flexible 3D data capture.
 - **Q:** How accurate is the 3D data captured by the EinScan Pro 2X V2?
 - **A:** In Fixed Scan mode, the single-scan accuracy is up to 0.04 mm and, with markers in handheld modes, the volumetric accuracy is approximately 0.045 mm + 0.3 mm/m.
+
+URL: https://umax.com/einscan-libre/
+## EinScan Libre | 3D Scanner
+- EinScan Libre | 3D Scanner. A wireless handheld 3D scanner that captures high-accuracy 3D models and color textures using infrared and laser scanning modes, with built-in processing, onboard display, and standalone operation for scanning objects of various sizes and materials.
+- **Q:** What type of scanning technology does a wireless all-in-one handheld 3D scanner use to capture objects?
+- **A:** It uses hybrid blue laser and infrared light scanning technologies to capture detailed 3D geometry and surface textures.
+- **Q:** Can the EinScan Libre operate without a computer?
+- **A:** Yes, it is designed as a fully wireless standalone scanner with a built-in processor and display that allows scanning and processing directly on the device.
+
+URL: https://umax.com/einstar-vega-3d-scanner/
+## EinStar Vega | 3D Scanner
+- EinStar Vega | 3D Scanner. A wireless handheld 3D scanner with built-in computing and display that captures detailed 3D models and color textures using dual scanning technologies and processes scans directly on the device without requiring a computer.
+- **Q:** What scanning technologies are used in the Einstar Vega 3D scanner?
+- **A:** The scanner combines infrared MEMS for short-range scanning and infrared VCSEL for longer-range scanning to capture objects of different sizes.
+- **Q:** What types of objects can the Einstar Vega scan?
+- **A:** The scanner can capture 3D data from small detailed items to larger objects by switching between HD and fast scanning modes.
+
+URL: https://umax.com/einscan-rigil-3d-scanner/
+## EinScan Rigil | 3D Scanner
+- EinScan Rigil | 3D Scanner. A wireless all-in-one 3D laser scanner with built-in computing that captures high-resolution 3D models and color textures using hybrid blue laser and infrared scanning modes, enabling standalone or PC-connected scanning for objects of various sizes and materials.
+- **Q:** What scanning modes are available on the EinScan Rigil?
+- **A:** The device provides Laser HD, IR Rapid, and hybrid scanning modes that allow users to balance speed, coverage, and detail depending on the object being scanned.
+- **Q:** What types of objects can the EinScan Rigil scan effectively?
+- **A:** The scanner can capture small detailed parts and larger objects by switching between laser and infrared modes with working distances ranging roughly from 160 mm to 1500 mm.
+
+URL: https://umax.com/einstar-3d-scanner/
+## EinStar 3D Scanner
+- EinStar 3D Scanner. A handheld 3D scanner that captures detailed 3D models and color textures using infrared scanning technology, producing high-density point cloud data for applications such as 3D printing, design, and reverse engineering.
+- **Q:** What scanning technology does the Einstar 3D scanner use?
+- **A:** The scanner uses infrared VCSEL structured light technology to capture 3D geometry and surface data from scanned objects.
+- **Q:** What level of detail can the Einstar 3D scanner capture?
+- **A:** The scanner can collect high-density point cloud data with point distances ranging from about 0.1 mm to 3 mm for detailed 3D models.
+
+URL: https://umax.com/einstar-2-wireless-3d-scanner/
+## EinStar 2 Wireless | 3D Scanner
+- EinStar 2 Wireless | 3D Scanner. A wireless handheld 3D scanner that captures high-resolution 3D models and full-color textures using hybrid blue laser and infrared scanning technologies, enabling fast scanning of objects of different sizes and materials with battery-powered portability.
+- **Q:** What scanning modes are available on the Einstar 2 wireless 3D scanner?
+- **A:** The scanner provides Laser HD and IR Rapid scanning modes to capture detailed geometry and efficiently scan larger objects.
+- **Q:** What file formats can be exported from scans created with the Einstar 2?
+- **A:** The scanner supports exporting scan data in formats such as STL, OBJ, PLY, 3MF, and ASC for use in design, modeling, or 3D printing workflows.
