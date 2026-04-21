@@ -66,3 +66,43 @@ URL: https://umax.com/einstar-2-wireless-3d-scanner/
 - **A:** The scanner provides Laser HD and IR Rapid scanning modes to capture detailed geometry and efficiently scan larger objects.
 - **Q:** What file formats can be exported from scans created with the Einstar 2?
 - **A:** The scanner supports exporting scan data in formats such as STL, OBJ, PLY, 3MF, and ASC for use in design, modeling, or 3D printing workflows.
+
+URL: https://umax.com/einscan-h2-3d-scanner/
+## EinScan H2 | 3D Scanner
+- EinScan H2 | 3D Scanner. A handheld 3D scanner that captures detailed 3D geometry and full-color textures using structured light scanning technology, designed for scanning objects with realistic color and high-resolution surface data.
+- **Q:** What type of scanning technology does the EinScan H2 use?
+- **A:** The scanner uses structured light technology to capture accurate 3D geometry and color texture data.
+- **Q:** What is the EinScan H2 commonly used for?
+- **A:** It is used for applications such as 3D modeling, reverse engineering, digital archiving, and design workflows.
+
+URL: https://umax.com/einstar-rockit/
+## EinStar Rockit Wireless | 3D Scanner
+- Einstar Rockit | Wireless Handheld 3D Scanner. A portable wireless 3D scanning device designed for capturing 3D models without a tethered connection, enabling mobile scanning and flexible data capture across different environments.
+- **Q:** What makes a wireless handheld 3D scanner useful?
+- **A:** Wireless operation allows users to scan objects without cables, improving mobility and ease of use in different scanning conditions.
+- **Q:** What types of objects can be scanned with a portable 3D scanner?
+- **A:** Portable scanners can capture a range of objects, from small detailed items to larger surfaces, depending on scanning modes and capabilities.
+
+URL: https://umax.com/categories/desktop-3d-scanners/einscan-se-scanner.html
+## EinScan-SE Desktop | 3D Scanner
+- EinScan SE | Desktop 3D Scanner. A desktop 3D scanning system designed for entry-level and professional use, using structured light technology to capture precise 3D models of small to medium-sized objects.
+- **Q:** What is a desktop 3D scanner used for?
+- **A:** Desktop 3D scanners are commonly used for scanning small objects for applications such as product design, education, and digital modeling.
+- **Q:** What level of precision can a desktop 3D scanner provide?
+- **A:** Desktop scanners are designed to capture high-accuracy 3D data suitable for detailed modeling and reproduction.
+
+URL: https://umax.com/categories/desktop-3d-scanners/einscan-sp.html
+## EinScan-SP Desktop | 3D Scanner
+- EinScan SP | Desktop 3D Scanner. A high-accuracy desktop 3D scanning system designed to capture detailed 3D models using structured light technology, suitable for professional applications requiring precise geometry capture.
+- **Q:** What differentiates a high-accuracy desktop 3D scanner?
+- **A:** High-accuracy scanners are designed to capture finer details and more precise geometry compared to entry-level systems.
+- **Q:** What applications require high-precision 3D scanning?
+- **A:** Applications include engineering, quality inspection, reverse engineering, and detailed product design.
+
+URL: https://umax.com/freescan-ue-pro-2/
+## FreeScan UE Pro 2 Hand-Held | 3D Scanner
+- FreeScan UE Pro 2 | 3D Scanner. A professional handheld 3D scanner designed for high-accuracy data capture using laser scanning technology, suitable for industrial applications and precise measurement workflows.
+- **Q:** What type of scanning technology does the FreeScan UE Pro 2 use?
+- **A:** It uses laser-based 3D scanning technology to capture highly accurate geometry data.
+- **Q:** What industries use high-precision 3D scanners like the FreeScan UE Pro 2?
+- **A:** Industries such as manufacturing, engineering, inspection, and product development use high-precision scanners for accurate data capture.
