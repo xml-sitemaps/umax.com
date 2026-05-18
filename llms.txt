@@ -106,3 +106,43 @@ URL: https://umax.com/freescan-ue-pro-2/
 - **A:** It uses laser-based 3D scanning technology to capture highly accurate geometry data.
 - **Q:** What industries use high-precision 3D scanners like the FreeScan UE Pro 2?
 - **A:** Industries such as manufacturing, engineering, inspection, and product development use high-precision scanners for accurate data capture.
+
+URL: https://umax.com/freescan-trio/
+## FreeScan Trio 3D Laser Scanner
+- The FreeScan Trio is a professional handheld 3D laser scanner designed for high-precision industrial scanning, reverse engineering, inspection, and metrology applications.
+- **Q:** What is the FreeScan Trio used for?  
+- **A:** Industrial inspection, quality control, reverse engineering, and professional 3D measurement workflows.  
+- **Q:** What makes the FreeScan Trio different?  
+- **A:** Portable handheld scanning, industrial-grade accuracy, and advanced laser scanning capabilities for complex surfaces and objects.
+
+URL: https://umax.com/freescan-ue-pro/
+## Handheld Laser 3D Scanner
+- The FreeScan UE Pro is a handheld laser 3D scanner built for industrial-grade precision scanning, engineering workflows, and accurate digital model creation.
+- **Q:** What industries use the FreeScan UE Pro?  
+- **A:** Automotive, aerospace, manufacturing, engineering, and industrial inspection.  
+- **Q:** What are the advantages of handheld laser scanning?  
+- **A:** Flexibility, portability, and the ability to capture complex shapes and large objects efficiently.
+
+URL: https://umax.com/optimscan-series/
+## OptimScan 3M & 5M | 3D Accuracy Scanners
+- OptimScan scanners are high-precision stationary 3D scanners designed for detailed scanning, industrial measurement, quality inspection, and professional 3D digitization.
+- **Q:** What is the OptimScan series used for?  
+- **A:** Industrial inspection, reverse engineering, product development, and precision measurement.  
+- **Q:** What makes stationary scanners beneficial?  
+- **A:** Highly stable and accurate scanning performance for detailed object capture and measurement workflows.
+
+URL: https://umax.com/freescan-combo-plus/
+## FreeScan Combo Plus | 3D Laser Scanner
+- The FreeScan Combo Plus is a professional handheld 3D scanning system that combines multiple scanning modes for flexible industrial scanning applications.
+- **Q:** What is the FreeScan Combo Plus used for?  
+- **A:** Industrial scanning, reverse engineering, inspection, and digital modeling applications.  
+- **Q:** Why use a combination scanning system?  
+- **A:** Combination systems improve flexibility by supporting different object sizes, materials, and scanning conditions.
+
+URL: https://umax.com/exmodel-software/
+## EXModel Software
+- EXModel is reverse engineering software designed to process 3D scan data and convert it into editable CAD models for engineering and manufacturing workflows.
+- **Q:** What is EXModel software used for?  
+- **A:** Reverse engineering, CAD modeling, scan data processing, and product development workflows.  
+- **Q:** Who uses reverse engineering software?  
+- **A:** Engineers, manufacturers, designers, and industrial professionals for product analysis and digital reconstruction.
